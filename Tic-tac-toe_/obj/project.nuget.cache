@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KJiGn/m4wpODr1Ii0d2XcuKGnqMc3jrmTTKjGyJa1YEEv0So543r0nhJJI5SN6uSCymqMmNJjFGw7CSpGnwhWg==",
+  "success": true,
+  "projectFilePath": "D:\\University\\tic-tac-toe\\Tic-tac-toe_\\Tic-tac-toe_.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
